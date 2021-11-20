@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"TextCounterTest","l":"Main"},{"p":"TextCounterTest","l":"TestRunner"},{"p":"TextCounterTest","l":"TestWordFrequencies"},{"p":"TextCounterTest","l":"WordFrequencies"}];updateSearchResults();
